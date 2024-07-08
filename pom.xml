@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>es.bcnc</groupId>
 	<artifactId>albums</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>albums</name>
 	<description>API to get albums</description>
 	<url/>
